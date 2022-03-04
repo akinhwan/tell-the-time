@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import ClockFace from './ClockFace';
 
 function App() {
   return (
@@ -13,6 +13,7 @@ function App() {
           Recall Mode
         </button>
       </header>
+      <ClockFace />
     </div>
   );
 }
