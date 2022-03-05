@@ -15,7 +15,7 @@ function ClockFace() {
           <div id="b">
             <div id="c">
               <div id="d">
-                <div id="sh">
+                {/* <div id="sh">
                   <div className="hh">
                     <div className="h"></div>
                   </div>
@@ -26,7 +26,7 @@ function ClockFace() {
                   <div className="ss">
                     <div className="s"></div>
                   </div>
-                </div>
+                </div> */}
                 <div id="ii">
                   <b>
                     <i></i>
@@ -98,10 +98,10 @@ function ClockFace() {
                   <div className="m"></div>
                   <div className="mr"></div>
                 </div>
-                <div className="ss">
+                {/* <div className="ss">
                   <div className="s"></div>
                   <div className="sr"></div>
-                </div>
+                </div> */}
                 <div id="k"></div>
               </div>
             </div>
